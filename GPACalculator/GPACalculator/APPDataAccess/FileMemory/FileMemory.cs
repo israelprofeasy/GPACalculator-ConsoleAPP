@@ -11,7 +11,7 @@ namespace APPDataAccess.FileMemory
 {
     public static class FileMemory
     {
-        public static string filePath = @"C:\Users\hp\source\repos\week4\GPA\GPACalculator\Data\courses.txt";
+        public static string filePath = @"C:\Users\hp\Desktop\week-4-israelprofeasy\GPACalculator\GPACalculator\Data\courses.txt";
 
         public static bool Write(Course course)
         {
