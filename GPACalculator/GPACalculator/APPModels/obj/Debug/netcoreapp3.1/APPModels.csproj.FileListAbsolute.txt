@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\week4\GPA\GPACalculator\APPModels\bin\Debug\netcoreapp3.1\APPModels.deps.json
+C:\Users\hp\source\repos\week4\GPA\GPACalculator\APPModels\bin\Debug\netcoreapp3.1\APPModels.dll
+C:\Users\hp\source\repos\week4\GPA\GPACalculator\APPModels\bin\Debug\netcoreapp3.1\APPModels.pdb
+C:\Users\hp\source\repos\week4\GPA\GPACalculator\APPModels\obj\Debug\netcoreapp3.1\APPModels.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\week4\GPA\GPACalculator\APPModels\obj\Debug\netcoreapp3.1\APPModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\week4\GPA\GPACalculator\APPModels\obj\Debug\netcoreapp3.1\APPModels.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\week4\GPA\GPACalculator\APPModels\obj\Debug\netcoreapp3.1\APPModels.AssemblyInfo.cs
+C:\Users\hp\source\repos\week4\GPA\GPACalculator\APPModels\obj\Debug\netcoreapp3.1\APPModels.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\week4\GPA\GPACalculator\APPModels\obj\Debug\netcoreapp3.1\APPModels.dll
+C:\Users\hp\source\repos\week4\GPA\GPACalculator\APPModels\obj\Debug\netcoreapp3.1\APPModels.pdb

@@ -1,0 +1,4 @@
+the 222, 2, 77
+MTH 101, 3, 99, APPModels.Models.Score
+HUY 432, 2, 77, APPModels.Models.Score
+TYH 444, 2, 99
