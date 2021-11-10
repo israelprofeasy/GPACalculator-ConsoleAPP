@@ -24,6 +24,16 @@
         "runtime": {
           "bin/placeholder/APPModels.dll": {}
         }
+      },
+      "Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Common.dll": {}
+        }
       }
     }
   },
@@ -37,12 +47,18 @@
       "type": "project",
       "path": "../APPModels/APPModels.csproj",
       "msbuildProject": "../APPModels/APPModels.csproj"
+    },
+    "Common/1.0.0": {
+      "type": "project",
+      "path": "../Common/Common.csproj",
+      "msbuildProject": "../Common/Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "APPDataAccess >= 1.0.0",
-      "APPModels >= 1.0.0"
+      "APPModels >= 1.0.0",
+      "Common >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -51,11 +67,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\week4\\GPA\\GPACalculator\\APPLib\\APPLib.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\week-4-israelprofeasy\\GPACalculator\\GPACalculator\\APPLib\\APPLib.csproj",
       "projectName": "APPLib",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\week4\\GPA\\GPACalculator\\APPLib\\APPLib.csproj",
+      "projectPath": "C:\\Users\\hp\\Desktop\\week-4-israelprofeasy\\GPACalculator\\GPACalculator\\APPLib\\APPLib.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\week4\\GPA\\GPACalculator\\APPLib\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\week-4-israelprofeasy\\GPACalculator\\GPACalculator\\APPLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,11 +88,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\hp\\source\\repos\\week4\\GPA\\GPACalculator\\APPDataAccess\\APPDataAccess.csproj": {
-              "projectPath": "C:\\Users\\hp\\source\\repos\\week4\\GPA\\GPACalculator\\APPDataAccess\\APPDataAccess.csproj"
+            "C:\\Users\\hp\\Desktop\\week-4-israelprofeasy\\GPACalculator\\GPACalculator\\APPDataAccess\\APPDataAccess.csproj": {
+              "projectPath": "C:\\Users\\hp\\Desktop\\week-4-israelprofeasy\\GPACalculator\\GPACalculator\\APPDataAccess\\APPDataAccess.csproj"
             },
-            "C:\\Users\\hp\\source\\repos\\week4\\GPA\\GPACalculator\\APPModels\\APPModels.csproj": {
-              "projectPath": "C:\\Users\\hp\\source\\repos\\week4\\GPA\\GPACalculator\\APPModels\\APPModels.csproj"
+            "C:\\Users\\hp\\Desktop\\week-4-israelprofeasy\\GPACalculator\\GPACalculator\\APPModels\\APPModels.csproj": {
+              "projectPath": "C:\\Users\\hp\\Desktop\\week-4-israelprofeasy\\GPACalculator\\GPACalculator\\APPModels\\APPModels.csproj"
+            },
+            "C:\\Users\\hp\\Desktop\\week-4-israelprofeasy\\GPACalculator\\GPACalculator\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\hp\\Desktop\\week-4-israelprofeasy\\GPACalculator\\GPACalculator\\Common\\Common.csproj"
             }
           }
         }

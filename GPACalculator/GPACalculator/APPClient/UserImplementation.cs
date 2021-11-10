@@ -6,15 +6,18 @@ using System.Text;
 using APPModels;
 using APPLib.Services.DTOs;
 using System.Threading.Tasks;
+using Common;
 
 namespace APPClient
 {
     class UserImplementation
     {
         private readonly IServiceImplementation _courseRepo;
-        public UserImplementation(IServiceImplementation courseRepo)
+        private readonly Ilogger _logger;
+        public UserImplementation(IServiceImplementation courseRepo, Ilogger logger)
         {
             _courseRepo = courseRepo;
+            _logger = logger;
         }
 
        

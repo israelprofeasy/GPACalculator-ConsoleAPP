@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APPModels", "APPModels\APPM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APPLib", "APPLib\APPLib.csproj", "{10108084-6DD6-4569-B604-AD70C7D8AF39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APPDataAccess", "APPDataAccess\APPDataAccess.csproj", "{1558165F-36F9-4CD7-9808-421301BB41C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APPDataAccess", "APPDataAccess\APPDataAccess.csproj", "{1558165F-36F9-4CD7-9808-421301BB41C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{CD615C81-EAC1-46F4-9E94-042D7E69A168}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{1558165F-36F9-4CD7-9808-421301BB41C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1558165F-36F9-4CD7-9808-421301BB41C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1558165F-36F9-4CD7-9808-421301BB41C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD615C81-EAC1-46F4-9E94-042D7E69A168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD615C81-EAC1-46F4-9E94-042D7E69A168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD615C81-EAC1-46F4-9E94-042D7E69A168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD615C81-EAC1-46F4-9E94-042D7E69A168}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

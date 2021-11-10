@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\week4\\GPA\\GPACalculator\\APPDataAccess\\APPDataAccess.csproj": {}
+    "C:\\Users\\hp\\Desktop\\week-4-israelprofeasy\\GPACalculator\\GPACalculator\\APPDataAccess\\APPDataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\week4\\GPA\\GPACalculator\\APPDataAccess\\APPDataAccess.csproj": {
+    "C:\\Users\\hp\\Desktop\\week-4-israelprofeasy\\GPACalculator\\GPACalculator\\APPDataAccess\\APPDataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\week4\\GPA\\GPACalculator\\APPDataAccess\\APPDataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\week-4-israelprofeasy\\GPACalculator\\GPACalculator\\APPDataAccess\\APPDataAccess.csproj",
         "projectName": "APPDataAccess",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\week4\\GPA\\GPACalculator\\APPDataAccess\\APPDataAccess.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\week-4-israelprofeasy\\GPACalculator\\GPACalculator\\APPDataAccess\\APPDataAccess.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\week4\\GPA\\GPACalculator\\APPDataAccess\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\week-4-israelprofeasy\\GPACalculator\\GPACalculator\\APPDataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\hp\\source\\repos\\week4\\GPA\\GPACalculator\\APPModels\\APPModels.csproj": {
-                "projectPath": "C:\\Users\\hp\\source\\repos\\week4\\GPA\\GPACalculator\\APPModels\\APPModels.csproj"
+              "C:\\Users\\hp\\Desktop\\week-4-israelprofeasy\\GPACalculator\\GPACalculator\\APPModels\\APPModels.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\week-4-israelprofeasy\\GPACalculator\\GPACalculator\\APPModels\\APPModels.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\hp\\source\\repos\\week4\\GPA\\GPACalculator\\APPModels\\APPModels.csproj": {
+    "C:\\Users\\hp\\Desktop\\week-4-israelprofeasy\\GPACalculator\\GPACalculator\\APPModels\\APPModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\week4\\GPA\\GPACalculator\\APPModels\\APPModels.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\week-4-israelprofeasy\\GPACalculator\\GPACalculator\\APPModels\\APPModels.csproj",
         "projectName": "APPModels",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\week4\\GPA\\GPACalculator\\APPModels\\APPModels.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\week-4-israelprofeasy\\GPACalculator\\GPACalculator\\APPModels\\APPModels.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\week4\\GPA\\GPACalculator\\APPModels\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\week-4-israelprofeasy\\GPACalculator\\GPACalculator\\APPModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

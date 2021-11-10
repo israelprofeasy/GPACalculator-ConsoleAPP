@@ -3,6 +3,7 @@ using APPDataAccess.InMemoryRepository.Implementation;
 using APPLib.Services.Interfaces;
 using System;
 using APPLib.Services.Implementation;
+using Common;
 
 namespace APPLib
 {
@@ -10,6 +11,7 @@ namespace APPLib
     {
         public static IServiceImplementation serviceImplementation;
         public static IResultRepository resultRepository;
+        public static Ilogger logger;
 
 
         public static void Instantiate()
@@ -19,6 +21,7 @@ namespace APPLib
 
             //------------------------------------------------------
             serviceImplementation = new AllServiceImplementation(resultRepository);
+            logger = new Logger();
 
 
 

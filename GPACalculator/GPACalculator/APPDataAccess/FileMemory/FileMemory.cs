@@ -15,7 +15,7 @@ namespace APPDataAccess.FileMemory
 
         public static bool Write(Course course)
         {
-            string textOutput = $"{course.CourseNameAndCode}, {course.CourseUnit}, {course.CourseScore}";
+            string textOutput = $"{course.CourseNameAndCode}, {course.CourseUnit}, {course.CourseScore}, {course.ScoreDetails.Grade}, {course.ScoreDetails.Point}, {course.ScoreDetails.Remarks}";
             string newOutput = string.Join(",", textOutput);
 
             try
@@ -46,7 +46,9 @@ namespace APPDataAccess.FileMemory
                         course.CourseNameAndCode = input[0];
                         course.CourseUnit = Convert.ToByte(input[1]);
                         course.CourseScore = Convert.ToInt32(input[2]);
-                         course.ScoreDetails = ScoreImplementation.
+                         course.ScoreDetails.Grade = input[3];
+                        course.ScoreDetails.Point = Convert.ToByte(input[4]);
+                        course.ScoreDetails.Remarks = input[5];
                         courses.Add(course);
 
 
